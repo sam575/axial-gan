@@ -1,6 +1,6 @@
 # Axial-GAN
 
-Code for the paper: Simultaneous Face Hallucination and Translation for Thermal to Visible Face Verification using Axial-GAN
+Code for the paper: [Simultaneous Face Hallucination and Translation for Thermal to Visible Face Verification using Axial-GAN](https://arxiv.org/abs/2104.06534)
 
 ## Introduction
 
@@ -61,7 +61,12 @@ ARL-VTF dataset and extended ARL polarimetric dataset, respectively.
 
 ## Citation
 ```
-TODO
+@article{immidisetti2021simultaneous,
+  title={Simultaneous Face Hallucination and Translation for Thermal to Visible Face Verification using Axial-GAN},
+  author={Rakhil Immidisetti and Shuowen Hu and Vishal M. Patel},
+  journal={arXiv preprint arXiv:2104.06534},
+  year={2021}
+}
 ```
 
 ## Acknowledgments
